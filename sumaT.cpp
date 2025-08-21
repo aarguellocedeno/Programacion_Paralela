@@ -7,7 +7,7 @@
 #include <time.h>
 using namespace std;
 
-#define N 5
+#define N 100000000
 int arr[N];
 int res1,res2;
 
@@ -51,4 +51,5 @@ int main(){
     cout << "resultado = "<< total <<endl;
     return 0;
 }
+
 
